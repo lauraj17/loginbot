@@ -1,0 +1,8 @@
+.altura{
+    height: 100vh;
+}
+@media (max-width:576px)  {
+    .user{
+        width: 40%;
+    }
+}
